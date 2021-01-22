@@ -5,7 +5,7 @@ Yasin Oğuzhan YILMAZ - 1611404043
 
 Mehmet Akif Ersoy Üniversitesi - Sunucu Tabanlı Programlama Dersi Final Projesi
 
-İçerisindeki tüm fonksiyonlar çalışmaktadır.
+Tüm fonksiyonlar çalışmaktadır.
 
 İçerisinde blog.sql ile database kurulumu gerçekleştikten sonra ayar.php dosyasından düzenleme ile çalıştırabilirsiniz.
 
